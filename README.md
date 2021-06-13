@@ -5,7 +5,7 @@ Currently this example only works in WebKit. Let's hope that sooner or later thi
 ## Propousel documentation
 * https://wicg.github.io/import-maps/
 * https://github.com/WICG/import-maps
-
+* https://blog.logrocket.com/es-modules-in-browsers-with-import-maps/
 
 ## Can i use
 * https://caniuse.com/import-maps
