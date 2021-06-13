@@ -1,10 +1,14 @@
 #Import map overview
 
-Let's hope that sooner or later this technology will have future
+Currently this example only works in WebKit. Let's hope that sooner or later this technology will have future.
 
 ## Propousel documentation
-https://wicg.github.io/import-maps/
-https://github.com/WICG/import-maps
+* https://wicg.github.io/import-maps/
+* https://github.com/WICG/import-maps
+
+
+## Can i use
+* https://caniuse.com/import-maps
 
 ## Ppolyfills and tooling
 * [@import-maps/resolve](https://www.npmjs.com/package/@import-maps/resolve) resolves a specifier relative to an import map.
